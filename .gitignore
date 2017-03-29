@@ -4,6 +4,8 @@
 
 /Obvs.RabbitMQ/bin
 /Obvs.RabbitMQ/obj
+/Obvs.RabbitMQ.Standard/bin
+/Obvs.RabbitMQ.Standard/obj
 /Obvs.RabbitMQ.Tests/bin
 /Obvs.RabbitMQ.Tests/obj
 /packages
